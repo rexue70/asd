@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.bottom {
+  height: 300px;
+  width: 100%;
+}
+
+.forNewsAndEvents{
+  margin: 20px;
+  padding:20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+}
+
+.TextWhile {
+  color : white;
+  font-size: xx-large;
+  padding-left: 10px;
+}
+
+#menu-button {
+  border-right: 1px solid #E1E1E1;
+  display: inline;
+  float: left;
+  height: 45px;
+  width: 39px;
+}
+
